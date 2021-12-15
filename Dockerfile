@@ -1,4 +1,4 @@
-# Set up build1
+# Set up build
 FROM node:lts AS build
 
 WORKDIR /usr/src
